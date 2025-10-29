@@ -28,7 +28,7 @@ namespace TrabGrupoM17C_Pert12
             }
 
             
-            Console.WriteLine($"O maior valor é {maiorValor} e encontra-se no índice {indiceMaiorValor}.");
+            Console.WriteLine($"O maior valor é {maiorValor},índice {indiceMaiorValor}.");
             Console.ReadLine();
         }
     }
